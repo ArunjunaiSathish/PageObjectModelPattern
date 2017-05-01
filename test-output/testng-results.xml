@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25515" started-at="2017-05-01T05:13:59Z" finished-at="2017-05-01T05:14:24Z">
+  <suite name="Suite" duration-ms="27334" started-at="2017-05-01T07:41:18Z" finished-at="2017-05-01T07:41:45Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="25515" started-at="2017-05-01T05:13:59Z" finished-at="2017-05-01T05:14:24Z">
+    <test name="Test" duration-ms="27334" started-at="2017-05-01T07:41:18Z" finished-at="2017-05-01T07:41:45Z">
       <class name="com.appln.tests.SearchBusFunctionality">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appln.tests.SearchBusFunctionality@9629756]" name="setUp" is-config="true" duration-ms="10387" started-at="2017-05-01T10:43:59Z" finished-at="2017-05-01T10:44:09Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appln.tests.SearchBusFunctionality@629f0666]" name="setUp" is-config="true" duration-ms="9610" started-at="2017-05-01T13:11:18Z" finished-at="2017-05-01T13:11:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchBusTicket()[pri:0, instance:com.appln.tests.SearchBusFunctionality@9629756]" name="searchBusTicket" duration-ms="12500" started-at="2017-05-01T10:44:09Z" finished-at="2017-05-01T10:44:22Z">
+        <test-method status="PASS" signature="searchBusTicket()[pri:0, instance:com.appln.tests.SearchBusFunctionality@629f0666]" name="searchBusTicket" duration-ms="15157" started-at="2017-05-01T13:11:28Z" finished-at="2017-05-01T13:11:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchBusTicket -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appln.tests.SearchBusFunctionality@9629756]" name="tearDown" is-config="true" duration-ms="2608" started-at="2017-05-01T10:44:22Z" finished-at="2017-05-01T10:44:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appln.tests.SearchBusFunctionality@629f0666]" name="tearDown" is-config="true" duration-ms="2547" started-at="2017-05-01T13:11:43Z" finished-at="2017-05-01T13:11:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
